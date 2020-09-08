@@ -4,7 +4,7 @@
     <br>      
     <p align="center">
         Guns-Separation |sepəˈreɪʃn| 蕴意为分离版本。<br/>
-        项目采用前后端分离架构，代码简洁，功能丰富，开箱即用，开创快速开发平台新趋势<br/>
+        项目采用前后端分离架构，代码简洁，功能丰富，开箱即用， 开创快速开发平台新趋势<br/>
         <br>
         <a href="https://www.antdv.com/docs/vue/introduce-cn/">
             <img src="https://img.shields.io/badge/vue--ant--design-2.1.0-blue.svg" alt="bootstrap">
